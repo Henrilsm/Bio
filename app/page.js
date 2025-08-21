@@ -7,11 +7,11 @@ export default function Home() {
       <br></br>
       <br></br>
       <p>
-        Olá, meu nome é Henri Moraes, tenho 20 anos e nasci em Salvador/BA.
+        Oi, me chamo Henri Moraes, tenho 20 anos e nasci em Salvador/BA.
         <br></br>
         <br></br>
-        Atualmente sou estudante de ciencias da computação na universidade
-        catolica de pernambuco (UNICAP).
+        Atualmente sou estudante de ciências da computação na Universidade
+        Católica de Pernambuco (UNICAP).
       </p>
     </div>
   );
