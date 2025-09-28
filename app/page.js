@@ -17,7 +17,7 @@ export default function Home() {
         <br />
         <br />
         Atualmente sou estudante de ciências da computação na Universidade
-        Católica de Pernambuco (UNICAP).
+        Católica de Pernambuco (UNICAP) e estou no 5 semestre.
       </p>
     </div>
   );
